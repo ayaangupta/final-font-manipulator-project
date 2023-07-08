@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://i.etsystatic.com/5868876/r/il/6d21a9/2400329418/il_1080xN.2400329418_k1dj.jpg');
+    background-repeat: no-repeat;
+    background-size: 2000px, 1100px;
+  }
+  
+.heading{
+    background-color: orange;
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px;
+}
+
+.copyright_footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+canvas{
+    border: 5px;
+    box-shadow: 2px;
+    
+}
